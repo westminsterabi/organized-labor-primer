@@ -22,6 +22,8 @@ A strike is when a group of employees refuse to work. Often a strike is used as 
 
 A strike is not spontaneous. Normally, all members of the union calling for a strike will vote on whether they want to strike or not. If the majority wins, the strike is planned in advance. The members who voted against are normally also required to participate in the strike. 
 
+When a strike happens, it is a last resort in the vast majority of cases. The workers are negatively impacted by lost wages since they're not paid during the strike. Most of the time, workers don't want to go on strike. Striking only happens when the union members feel as though they have no other option. 
+
 [Encylopedia Britannica](https://www.britannica.com/topic/strike-industrial-relations) on strikes 
 
 ## Walkout
