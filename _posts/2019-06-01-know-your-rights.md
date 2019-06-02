@@ -2,6 +2,7 @@
 layout: post
 title: Know your rights
 ---
+Unfortunately, the United States constitution does not have the same provisions protecting the right to strike as many other nations do, either in writing or as decided by the Supreme Court. It's still legal to strike, but there are many more ways to interfere with the process here than there are in other places. 
 
 The National Labor Relations Board (NLRB) [protects the right to strike](https://www.nlrb.gov/strikes), but also notes that not all strikes are legal. *If* a strike is legal, *technically* the participants cannot be arrested or otherwise removed. 
 
