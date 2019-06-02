@@ -13,9 +13,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>In October 2017, graduate students at the University of Chicago voted to unionize. In response to the administration's refusal to recognize the union, in May 2019 the union called a strike. </p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>But many students at UChicago don't actually know what that means. This open resource exists to inform about the philosophy and rationale behind labor movements, why unions exist, and why the GSU is on strike. <p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
