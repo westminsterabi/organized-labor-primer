@@ -7,7 +7,7 @@ theme_settings:
   # Meta
   title: A Primer on Organized Labor
   avatar: assets/img/avatar.png
-  favicon: assets/favicon.ico
+  favicon: assets/icons8-strike-filled-96.png
   gravatar: # Email MD5 hash
   description: "Information about organized labor" # used by search engines
 
@@ -64,7 +64,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  google_fonts: "Work+Sans:400,700,700italic,400italic"
 
   # Post navigation
   post_navigation: false
