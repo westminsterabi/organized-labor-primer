@@ -45,4 +45,5 @@ A disagreement between and employer and employees about anything related to the 
 ## Closed shop
 A place of employment where all employees must belong to a union. Closed shops are illegal in the United States. In many contracts, however, non-union employees will pay an "agency" fee, since they also benefit from the bargaining done by the union.
 
-
+## Scab 
+A perjorative term referring to anyone who crosses a picket line during a strike, including union members, non-union members, and workers hired to replace striking workers.

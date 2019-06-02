@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+baseurl: "/organized-labor-primer"
+url: "https://westminsterabi.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -64,7 +64,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Work+Sans:400,700,700italic,400italic"
+  google_fonts: "Nanum+Gothic:400,700,700italic,400italic"
 
   # Post navigation
   post_navigation: false
