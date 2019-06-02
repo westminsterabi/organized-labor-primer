@@ -5,7 +5,6 @@ category: notes
 tags: faq
 ---
 
-# Some words you should know 
 I haven't alphabetized these. Instead I've tried to hierarchize them, so that you won't encounter a term you don't already know as you go down the page. 
 
 ## Union
